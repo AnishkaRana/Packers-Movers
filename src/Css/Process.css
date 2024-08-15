@@ -1,0 +1,26 @@
+.process-section {
+  text-align: center;
+  margin: 200px auto;
+}
+
+.process-title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.process-title span {
+  color: #ffc107;
+}
+
+.process-description {
+  color: #777;
+  margin-bottom: 40px;
+  font-size: 0.8em;
+}
+
+.process-steps {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

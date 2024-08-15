@@ -1,0 +1,28 @@
+.process-step {
+  text-align: center;
+  margin: 0 20px;
+}
+
+.step-circle {
+  width: 40px;
+  height: 40px;
+  background-color: #00274d;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  font-size: 1.2em;
+}
+
+.step-icon {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.step-title {
+  font-weight: bold;
+  color: #333;
+}

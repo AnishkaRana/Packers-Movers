@@ -1,0 +1,67 @@
+.quote-form-container {
+  text-align: center;
+  font-size: 15px;
+  width: 70%;
+  margin: 50px auto;
+}
+
+.quote-form {
+  background-color: #1A2B50;
+  padding: 30px;
+  margin-top: 50px;
+  margin-left: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-row {
+  display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin: 5px;
+  flex: 1;
+  max-width: 250px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 10px;
+  color: #FFFFFF;
+  font-size: 10px;
+}
+
+.form-group input {
+  width: 150px;
+  height: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #D3D3D3;
+  font-size: 10px;
+}
+
+.form-submit {
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+.form-submit button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #1A2B50;
+  color: #white;
+  font-size: 13px;
+  cursor: pointer;
+  margin-top: 20px;
+  border: 1px solid #000000;
+}
+
+.form-submit button:hover {
+  background-color: #333;
+}
